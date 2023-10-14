@@ -84,7 +84,7 @@ img:hover {
     display: ruby-base-container; /* Display the links as block elements for a vertical layout */
     padding: 10px 20px; /* Add padding to create the button shape */
     background-color:transparent; /* Button background color */
-    color:burlywood; /* Text color */
+    color:black; /* Text color */
     text-decoration: none; /* Remove underlines from links */
     border-radius: 5px; /* Rounded corners */
     transition: background-color 0.3s; /* Add a transition effect for the background color change */
@@ -132,7 +132,9 @@ img:hover {
     right: 6px;
 }
 
-
+li{
+    display: inline;
+}
 
 
 
